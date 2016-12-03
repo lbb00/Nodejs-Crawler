@@ -1,0 +1,8 @@
+# nodejs modules
+node_modules
+
+# all log
+*.log
+
+# test dir - images
+images
